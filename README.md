@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-```Techonologies will make world a better place.```
+```Technology can make the world a better place.```
 
 <img align=right src="https://github-readme-stats.vercel.app/api?username=ntigo&count_private=true&show_icons=true&theme=onedark">
 <br><br><br><br><br><br><br><br><br><br><br>
